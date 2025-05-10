@@ -10,10 +10,13 @@ I'm a passionate **front-end developer** who loves solving problems, building in
 
 ## 🚀 Tools & Technologies
 
-* 💻 HTML, CSS, JavaScript
-* ⚛️ React.js
-* 🌐 Node.js
-* 📦 NPM, Git, VS Code
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![React](https://img.shields.io/badge/Code-React-blueviolet)
+![Node.js](https://img.shields.io/badge/Code-Node.js-green)
+![Git](https://img.shields.io/badge/Tool-Git-red)
+![VS Code](https://img.shields.io/badge/Tool-VS%20Code-blue)
 
 ## 📈 GitHub Stats
 
