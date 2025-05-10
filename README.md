@@ -20,6 +20,9 @@ I'm a passionate **front-end developer** who loves solving problems, building in
 
 ## 📈 GitHub Stats
 
+![Rasheed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasheethkar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasheethkar&layout=compact&theme=radical)
+
 ## 📫 Connect With Me
 
 * **Email:** [rasheethkar@gmail.com](mailto:rasheethkar@gmail.com)
