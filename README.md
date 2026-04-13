@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rasheed Abubakar
 
-I'm a passionate **front-end developer** who loves solving problems, building interactive, user-friendly web interfaces. I enjoy learning modern web technologies and creating responsive, performant applications.
+I'm a passionate **front-end developer** who loves solving problems, building interactive, user-friendly web interfaces. I enjoy learning modern web technologies and creating responsive, performant applications and ready to callaborate.
 
 ## 🧠 Currently Learning
 
